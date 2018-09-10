@@ -1,0 +1,13 @@
+{
+  "name": "Jenkins_Bot",
+  "version": "2.0.0",
+  "description": "Node server for Jenkins",
+  "main": "app.js",
+  "author": "Adithya S",
+  "license": "N/A",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x",
+    "request": "2.56.x"
+  }
+}
